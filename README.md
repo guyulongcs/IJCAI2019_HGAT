@@ -12,7 +12,7 @@ This dataset contains user profiles (gender, age), user's click and order behavi
 
 # Download link:
 
-To protect the privacy of users, we only provide samples of the dataset here (i.e. top 1000 lines of each file). If you are interested in using the whole dataset for your research, please send your email to guyulongcs@gmail.com.
+To protect the privacy of users, we only provide samples of the dataset here (i.e. top 1000 lines of each file). If you are interested in using the whole dataset for your research, please send your email to guyulongcs@gmail.com. We will share the download link of the full dataset to you.
 
 # Statistics:
 
