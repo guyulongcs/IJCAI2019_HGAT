@@ -10,6 +10,10 @@ We randomly sampled 100,000 users from JD.com, one of the largest e-commerce sit
 Then we collect the users' profiles, click and order logs ranging from Feb 2018 to Feb 2019, and the information of items (i.e. products).
 This dataset contains user profiles (gender, age), user's click and order behaviors and product metadata (category information, brand, price, titles).
 
+# Download link:
+
+To protect the privacy of users, we only provide samples of the dataset here (i.e. top 1000 lines of each file). If you are interested in using the whole dataset for your research, please send your email to guyulongcs@gmail.com.
+
 # Statistics:
 
 
@@ -29,9 +33,6 @@ This dataset can be used for research on User Profiling, Recommender Systems, Pu
 Please cite the following paper if you use the data in any way.
 
 1. Chen, Weijian, Yulong Gu, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong Guo, Dawei Yin, and Yongdong Zhang. "Semi-supervised User Profiling with Heterogeneous Graph Attention Networks." IJCAI 19
-
-Download link:
-We only provide samples of the dataset here. If you are interested in using the whole dataset for your research, please send your email to guyulongcs@gmail.com.
 
 
 
