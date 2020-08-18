@@ -6,7 +6,8 @@
 
 This dataset is used for research on user profiling in "Semi-supervised User Profiling with Heterogeneous Graph Attention Networks", which is published in IJCAI 19. https://www.ijcai.org/proceedings/2019/0293.pdf
 
-	![The proposed framework](HGAT.png)
+
+![The proposed framework](HGAT.png)
 
 We randomly sampled 100,000 users from JD.com, one of the largest e-commerce sites in the world.
 Then we collect the users' profiles, click and order logs ranging from Feb 2018 to Feb 2019, and the information of items (i.e. products).
